@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1576750416 source:c:\users\liceum_r\documents\filip hanslik\program_zadanie\main.cpp
+	<iostream>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+
+1578244505 source:d:\zadanie\main.cpp
+	<iostream>
+	<cstdio>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+	<time.h>
+	<ctime>
+
